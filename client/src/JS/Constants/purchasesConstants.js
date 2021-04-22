@@ -1,0 +1,3 @@
+export const LOAD_PURCHASE = "LOAD_PURCHASE";
+export const GET_PURCHASES = "GET_PURCHASES";
+export const FAIL_PURCHASE = "FAIL_PURCHASE";

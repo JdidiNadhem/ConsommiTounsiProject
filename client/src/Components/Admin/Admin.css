@@ -1,0 +1,22 @@
+.Admin {
+  margin: 5% 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.fa-user-shield {
+  color: #007bff;
+}
+.list {
+  box-shadow: 0px 11px 35px 2px rgb(0 0 0 / 14%);
+  border-radius: 10px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5%;
+}
+.prod-img {
+  height: 50px;
+  width: 13%;
+}

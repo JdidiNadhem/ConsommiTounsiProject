@@ -1,0 +1,22 @@
+.product-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0px 11px 35px 2px rgb(0 0 0 / 14%);
+  padding: 1%;
+  border-radius: 10px;
+  max-width: 30%;
+}
+
+.c-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 20px;
+}
+.btns {
+  display: flex;
+
+  width: 100%;
+  margin: 0;
+}

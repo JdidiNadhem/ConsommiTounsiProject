@@ -1,0 +1,6 @@
+export const LOAD_SUPPLIER = "LOAD_SUPPLIER";
+export const FAIL_SUPPLIER = "FAIL_SUPPLIER";
+export const GET_SUPPLIER = "GET_SUPPLIER";
+export const LOGOUT_SUPPLIER = "LOGOUT_SUPPLIER";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const GET_PRODUCTS = "GET_PRODUCTS";

@@ -1,0 +1,12 @@
+.footer {
+  width: 100%;
+  background-color: #ff1616;
+  color: white;
+  padding: 1%;
+  bottom: 0;
+  position: fixed;
+}
+
+.footer h6 {
+  margin-left: 42%;
+}

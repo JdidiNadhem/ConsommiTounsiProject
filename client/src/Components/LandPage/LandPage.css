@@ -1,0 +1,10 @@
+.Landpage {
+  margin: 6% 10%;
+}
+.home-products {
+  display: flex;
+  flex-wrap: wrap;
+}
+.home-products * {
+  margin: 2%;
+}

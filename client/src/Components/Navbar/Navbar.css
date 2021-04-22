@@ -1,0 +1,42 @@
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  background-color: white;
+  box-shadow: 0px 5px 5px rgba(000, 000, 000, 0.1),
+    inset 0px 1px 0px rgba(255, 255, 255, 0.5);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+nav img {
+  height: 50px;
+  width: 37%;
+  margin: 0% 0%;
+  top: 0;
+}
+
+.buttons {
+  width: 25%;
+  margin-right: 5%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.search {
+  display: flex;
+  align-items: baseline;
+}
+
+.fa-shopping-cart {
+  color: black;
+  padding: 5%;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.fa-user-shield {
+  cursor: pointer;
+}

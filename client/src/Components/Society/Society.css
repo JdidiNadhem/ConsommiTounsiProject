@@ -1,0 +1,56 @@
+.society {
+  margin: 7% 1%;
+  display: flex;
+}
+.society-card {
+  width: 30%;
+}
+.supplier-product {
+  width: 70%;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 400;
+}
+.products-for-sold {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+  box-shadow: 0px 11px 35px 2px rgb(0 0 0 / 14%);
+  border-radius: 5px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  margin-bottom: 11%;
+}
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+  padding: 5%;
+  height: 578px;
+}
+
+.products * {
+  margin: 2%;
+}
+
+.society-products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.products-solded {
+  box-shadow: 0px 11px 35px 2px rgb(0 0 0 / 14%);
+  border-radius: 5px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3%;
+  margin-right: 25%;
+}
